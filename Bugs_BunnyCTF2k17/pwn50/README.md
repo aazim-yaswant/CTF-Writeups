@@ -1,1 +1,1 @@
-Detailed Writeup at aazim-yaswant.github.io
+Detailed Writeup [Here](aazim-yaswant.github.io)
