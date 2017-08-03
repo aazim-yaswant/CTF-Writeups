@@ -1,4 +1,4 @@
 # CTF-Writeups
 This repository contains exploit scripts and binaries I used for CTF challenges.
 
-Detailed Writeup can be found at aazim-yaswant.github.io
+Detailed Writeups for the same can be found [Here](https://aazim-yaswant.github.io/)
