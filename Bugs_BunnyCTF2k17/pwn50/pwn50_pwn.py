@@ -15,5 +15,4 @@ r.send(pay)
 r.interactive()
 
 #cat /home/pwn50/flag
-
 #Bugs_Bunny{lool_cool_stuf_even_its_old!!!!!}
